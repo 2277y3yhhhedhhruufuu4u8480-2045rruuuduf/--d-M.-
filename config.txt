@@ -18,9 +18,9 @@ prefix=2
 
 --
 
-token=NDMyODA0MzcwNjE5MzAxODg4.DmW2ag.kZCMfEhxWXaTPA2THPzWk45-VzU
+token:NDQzNDk4Mzc2ODE0OTE5Njgw.DryrpQ.3v66kxv8JrFXTpHd2a2eAnPhHu8
 owner=311603535466856458
-prefix=3
+prefix=5
 
 --
 
@@ -29,10 +29,9 @@ owner=311603535466856458
 prefix=4
 
 --
-
-token=NDQzNDk4Mzc2ODE0OTE5Njgw.DdOPsA.cC__pAbHqLxwOg4P6xyoX1dr6T0
+token=NDMyODA0MzcwNjE5MzAxODg4.DmW2ag.kZCMfEhxWXaTPA2THPzWk45-VzU
 owner=311603535466856458
-prefix=5
+prefix=3
 
 --
 
