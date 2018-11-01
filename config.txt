@@ -6,8 +6,7 @@ stayinchannel=true
 songinstatus=false 
 
 --
-
-token=NDMyNzk4MzM5NDYxOTM5MjIx.DmW15A.XQ0y7v3fmZ8LT9wOfsDJgzwkTPE
+token=NDMyNzk4MzM5NDYxOTM5MjIx.DmW15A.XQ0y7v3fmZ8LT9wOfsDJg
 owner=311603535466856458
 prefix=1
 
